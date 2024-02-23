@@ -43,6 +43,7 @@ Feel free to explore my repositories, contribute, or reach out if you have quest
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://dev.to/majesticshawarma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="majesticshawarma" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/marc-viernes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="marc-viernes" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/mpvviernes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mpvviernes" height="30" width="40" /></a>
 </p>
